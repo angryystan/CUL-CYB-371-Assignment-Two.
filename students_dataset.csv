@@ -1,0 +1,51 @@
+Student ID,Department,Level,Attendance Percentage,Average Examination Score
+CUL001,Computer Science,100,89.66,54.69
+CUL002,Cybersecurity,100,87.07,93.53
+CUL003,Computer Science,400,61.27,45.62
+CUL004,Cybersecurity,100,82.45,82.96
+CUL005,Data Science,400,68.82,75.36
+CUL006,Computer Science,200,87.93,60.42
+CUL007,Cybersecurity,200,98.29,60.2
+CUL008,Computer Science,400,63.87,90.85
+CUL009,Data Science,300,92.29,83.78
+CUL010,Data Science,100,98.92,62.71
+CUL011,Data Science,300,93.18,77.11
+CUL012,Software Engineering,200,88.18,42.75
+CUL013,Cybersecurity,300,99.41,91.32
+CUL014,Computer Science,400,71.12,78.14
+CUL015,Software Engineering,200,74.81,52.57
+CUL016,Software Engineering,100,84.37,50.27
+CUL017,Cybersecurity,200,78.49,56.2
+CUL018,Data Science,200,87.38,90.57
+CUL019,Computer Science,200,92.87,88.3
+CUL020,Information Technology,300,62.65,94.79
+CUL021,Data Science,300,68.51,69.95
+CUL022,Information Technology,200,70.6,54.8
+CUL023,Data Science,300,89.88,65.71
+CUL024,Data Science,400,74.48,99.84
+CUL025,Cybersecurity,400,63.64,42.83
+CUL026,Computer Science,200,85.1,87.52
+CUL027,Information Technology,100,75.39,75.75
+CUL028,Information Technology,300,98.84,91.65
+CUL029,Computer Science,100,87.27,72.22
+CUL030,Software Engineering,300,64.46,66.09
+CUL031,Information Technology,100,98.15,92.55
+CUL032,Software Engineering,200,80.31,46.38
+CUL033,Software Engineering,200,66.11,85.75
+CUL034,Data Science,100,83.96,69.32
+CUL035,Computer Science,300,95.15,89.9
+CUL036,Software Engineering,200,62.32,92.68
+CUL037,Computer Science,100,89.28,88.96
+CUL038,Data Science,200,65.14,68.52
+CUL039,Data Science,200,70.6,92.35
+CUL040,Information Technology,200,97.16,85.32
+CUL041,Cybersecurity,300,75.96,80.3
+CUL042,Software Engineering,400,95.98,67.09
+CUL043,Cybersecurity,200,62.56,41.26
+CUL044,Data Science,200,83.54,40.43
+CUL045,Computer Science,200,62.7,41.88
+CUL046,Software Engineering,100,80.57,56.71
+CUL047,Information Technology,200,81.57,83.4
+CUL048,Data Science,400,69.72,68.38
+CUL049,Information Technology,200,63.77,79.54
+CUL050,Software Engineering,400,76.44,91.83
